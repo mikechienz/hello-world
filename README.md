@@ -1,2 +1,4 @@
 # hello-world
-This is my first time so excited
+This is the first time using github.
+My name is Mike.
+
